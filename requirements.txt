@@ -1,0 +1,7 @@
+kaleido==0.2.1
+nbformat==5.10.4
+numpy==2.2.2
+pandas==2.2.3
+pillow==11.1.0
+plotly==6.0.0
+pycountry-convert==0.7.2
