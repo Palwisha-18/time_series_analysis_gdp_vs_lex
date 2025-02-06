@@ -5,7 +5,7 @@ This project visualizes the relationship between **life expectancy** and **GDP p
 
 ## Final Output
 The final animated chart is saved as a GIF:  
-![Life Expectancy vs. GDP Per Capita](usercode/animated_chart.gif)
+![Life Expectancy vs. GDP Per Capita](USERCODE/animated_chart.gif)
 
 ## Features
 - **Time Series Analysis**: Uses historical data spanning over a century.  
